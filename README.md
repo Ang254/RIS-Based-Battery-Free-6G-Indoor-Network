@@ -41,4 +41,4 @@ This repository contains:
 
 ## Author
 
-Angela
+Angela Mugwe
