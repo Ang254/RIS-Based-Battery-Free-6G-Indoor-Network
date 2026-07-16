@@ -44,11 +44,11 @@ See the images and report included in this repository for system architecture, s
 ### System Architecture
 ![Architecture](arch1.png)
 
-### RIS Activated
+### Intelligent RIS Activated
 ![RIS](RIS_on.png)
 ![RIS](BestPattern.png)
 
-### RIS Deactivated
+### Intelligent RIS Deactivated
 ![RIS](RIS_Off.png)
 
 ### System Performance without RIS
@@ -57,7 +57,7 @@ See the images and report included in this repository for system architecture, s
 ### System Performance with static RIS
 ![Performance](9DataIntelly.png)
 
-### System Performance with
+### System Performance with intelligent RIS
 ![Performance](7DataRISAccurate.png)
 
 ### Simulation Received Power Results
