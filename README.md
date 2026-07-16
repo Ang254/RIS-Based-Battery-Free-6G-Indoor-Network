@@ -44,6 +44,10 @@ See the images and report included in this repository for system architecture, s
 ### System Architecture
 ![Architecture](arch1.png)
 
+### RIS
+![RIS](RIS_on.png)
+![RIS](BestPattern.png)
+![RIS](RIS_Off.png)
 ### System Performance
 
 ![RSSI Comparison](images/rssi_results.png)
