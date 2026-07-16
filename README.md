@@ -44,17 +44,21 @@ See the images and report included in this repository for system architecture, s
 ### System Architecture
 ![Architecture](arch1.png)
 
-### RIS
+### RIS Activated
 ![RIS](RIS_on.png)
 ![RIS](BestPattern.png)
-![RIS](RIS_Off.png)
-### System Performance
 
-![RSSI Comparison](images/rssi_results.png)
+### RIS Deactivated
+![RIS](RIS_Off.png)
+
+### System Performance
+![Performance](images/rssi_results.png)
 
 ### Simulation Results
+![Simulation](MATL_Pr.png)
+![Simulation](MATL_reliable.png)
+![Simulation](MATL_snr.png)
 
-![Simulation](images/simulation_results.png)
 ---
 
 ## Author
