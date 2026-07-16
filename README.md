@@ -51,8 +51,14 @@ See the images and report included in this repository for system architecture, s
 ### RIS Deactivated
 ![RIS](RIS_Off.png)
 
-### System Performance
-![Performance](images/rssi_results.png)
+### System Performance without RIS
+![Performance](6DataRIS.png)
+
+### System Performance with static RIS
+![Performance](9DataIntelly.png)
+
+### System Performance with
+![Performance](7DataRISAccurate.png)
 
 ### Simulation Received Power Results
 ![Simulation](MATL_Pr.png)
