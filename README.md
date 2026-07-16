@@ -41,6 +41,13 @@ The project combines MATLAB simulations and hardware implementation to evaluate 
 
 See the images and report included in this repository for system architecture, simulation results, and performance evaluation.
 
+### System Performance
+
+![RSSI Comparison](images/rssi_results.png)
+
+### Simulation Results
+
+![Simulation](images/simulation_results.png)
 ---
 
 ## Author
