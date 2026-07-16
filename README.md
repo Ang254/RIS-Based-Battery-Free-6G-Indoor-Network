@@ -63,6 +63,9 @@ See the images and report included in this repository for system architecture, s
 ### Simulation Signal to Noise Ratio Results
 ![Simulation](MATL_snr.png)
 
+### Simulation Latency Results
+![Simulation](latency_MATL.png)
+
 ---
 
 ## Author
