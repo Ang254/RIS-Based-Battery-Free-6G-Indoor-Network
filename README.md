@@ -28,14 +28,18 @@ The project combines MATLAB simulations and hardware implementation to evaluate 
 
 ---
 
-## Repository Structure
+## Key Contributions
 
-This repository contains:
+- Researched and designed an intelligent RIS-assisted indoor wireless communication system.
+- Developed and simulated the proposed system using MATLAB.
+- Designed and implemented a solar-powered prototype using Arduino Nano, ESP32, DHT11 sensor, and an adaptive RIS controller.
+- Evaluated system performance through simulation and experimental testing.
 
-- MATLAB simulations
-- Arduino source code
-- Hardware documentation
-- Project images
+---
+
+## Project Results
+
+See the images and report included in this repository for system architecture, simulation results, and performance evaluation.
 
 ---
 
