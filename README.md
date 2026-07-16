@@ -77,7 +77,7 @@ See the images and report included in this repository for system architecture, s
 ## 📄 Project Report
 A detailed report describing the project methodology, system design, implementation, testing, and results is available below.
 
-📥 **[View Project Report](Final_Project_Report-AM.pdf)**
+📥 **[View Project Report](FinalProjectReport-AM.pdf)**
 
 ## Author
 
